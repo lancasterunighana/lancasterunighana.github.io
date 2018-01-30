@@ -1,5 +1,5 @@
 # Jekflix Template
-![Cover Image](hhttp://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_300/v1516814692/lug-bg-logo2_kpxcor.png)
+![Cover Image](http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_300/v1516814692/lug-bg-logo2_kpxcor.png)
 
 See the [demo here](https://www.rossener.com/jekflix-template).
 
