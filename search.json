@@ -1,13 +1,99 @@
----
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "categories" : "{{ post.category }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date: '%m/%d/%Y'}}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "Andrews Lartey",
+      "tags"     : "techincal, skills, and professionalism",
+      "categories" : "mobile",
+      "url"      : "/lugstudentblog/andrews-lartey/",
+      "date"     : "01/13/2018"
+    } ,
+  
+    {
+      "title"    : "Justina Adarkwa ",
+      "tags"     : "techincal, skills, and professionalism",
+      "categories" : "mobile",
+      "url"      : "/lugstudentblog/justina-adarkwa/",
+      "date"     : "01/11/2018"
+    } ,
+  
+    {
+      "title"    : "2018 Careers Fair Stakeholders",
+      "tags"     : "life and tips",
+      "categories" : "life",
+      "url"      : "/lugstudentblog/2018-careers-fair-stakeholders/",
+      "date"     : "09/10/2017"
+    } ,
+  
+    {
+      "title"    : "2018 Careers Fair",
+      "tags"     : "life and after-school",
+      "categories" : "css",
+      "url"      : "/lugstudentblog/2018-careers-fair/",
+      "date"     : "08/14/2017"
+    } ,
+  
+    {
+      "title"    : "Careers Department | Students Career Our Priority",
+      "tags"     : "Resume, CV, and Get hired",
+      "categories" : "tutorial",
+      "url"      : "/lugstudentblog/careers-department-students-career-our-priority/",
+      "date"     : "08/07/2017"
+    } ,
+  
+    {
+      "title"    : "Careers Department | Google",
+      "tags"     : "digital marketing, wordpress, and skills training",
+      "categories" : "blog",
+      "url"      : "/lugstudentblog/careers-department-google/",
+      "date"     : "07/29/2017"
+    } ,
+  
+    {
+      "title"    : "Careers Department | LinkedIn",
+      "tags"     : "Networking and career",
+      "categories" : "webdev",
+      "url"      : "/lugstudentblog/careers-department-linkedin/",
+      "date"     : "06/08/2017"
+    } ,
+  
+    {
+      "title"    : "Featured Students",
+      "tags"     : "leadership, student excellence, and personal achievement",
+      "categories" : "tutorial",
+      "url"      : "/lugstudentblog/featured-students/",
+      "date"     : "06/04/2017"
+    } ,
+  
+    {
+      "title"    : "Careers Department | 2018 Programs",
+      "tags"     : "cv writing",
+      "categories" : "django",
+      "url"      : "/lugstudentblog/careers-department-2018-programs/",
+      "date"     : "05/11/2017"
+    } ,
+  
+    {
+      "title"    : "Student Representative Council (SRC)",
+      "tags"     : "academics, leadership, and campus life",
+      "categories" : "mobile",
+      "url"      : "/lugstudentblog/student-representative-council/",
+      "date"     : "09/06/2015"
+    } ,
+  
+    {
+      "title"    : "Careers Department Final Year",
+      "tags"     : "techincal, skills, and professionalism",
+      "categories" : "mobile",
+      "url"      : "/lugstudentblog/careers-department-final-year/",
+      "date"     : "05/08/2015"
+    } ,
+  
+    {
+      "title"    : "Seja bem-vindo",
+      "tags"     : "",
+      "categories" : "blog",
+      "url"      : "/lugstudentblog/seja-bem-vindo/",
+      "date"     : "10/10/2012"
+    } 
+  
 ]
