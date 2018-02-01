@@ -2,128 +2,24 @@
 layout: post
 title: "Justina Adarkwa "
 description: Computer Science
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_376/v1516815330/andyLart_zcppfe.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_760/v1516815506/justina1_atkeoh.jpg'
 category: 'mobile'
 tags:
 - techincal
 - skills
 - professionalism
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+twitter_text: Follow me on twitter.
+introduction: Economics and International Relations.
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+**What is your major and graduating year?** I am studying Economics and International Relations and will be graduating in 2018.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+ **What do you plan on doing after graduation?** I plan on going on to do a Masters or PhD in Development Studies, then working for the UN, and hopefully the public sector of my country Ghana as an Ambassador or Minister. 
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+ **What is your favourite memory in university?** I've had many great experiences here and I hope my next year will be even better, so my answer to this is that hopefully, my favourite memory is yet to happen.
 
-## Inline HTML elements
+ **What is one thing that you gained during your life at university which you feel was of immense value?** I have been blessed to meet many of the future leaders of not only Ghana but Africa as a whole in my classrooms and in Lancaster's hallways, and I greatly treasure the relationships I have with these intelligent and inspiring people. 
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
-
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
-
-Most of these elements are styled by browsers with few modifications on our part.
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+**Any advice that you have for those who want to come to Lancaster and your juniors?** I would encourage anyone in or about to come to Lancaster to see everything as an opportunity, even failures. The only time I reckon failures are anything to be ashamed of is when you, the individual, allow them to impede you from pursuing and ultimately achieving your goals and dreams. I would even go as far as to say that failure can even be a great set-up for success, since they make you aware of the need for growth, help you identify the area in need growth, and induce a desire for success. So seize every opportunity (taking into account your priorities of course) because to be an overcomer, you must have had something to overcome.
+**Do you have any projects that you are working on/have worked on that is being supported by Lancaster University Ghana?** I was honoured to be a part of the inaugural Ghanaian internship team for the Richardson Institute Internship Programme (Lancaster University, UK), where my colleagues and I researched on peace and conflict specifically between the Northern and Southern regions of Ghana and we came up with findings in the form of a dissertation to add to the literature concerning the subject and provided possible solutions to the causes of conflict within these areas. Additionally, the Politics and Debate Society of which I am President has received generous support from the university like all the other clubs to be able to host and execute events that are close to our hearts. 
+Both of these ventures would not have been possible without the support of LUG and all its resources, especially its staff.</p>
