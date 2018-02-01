@@ -9,9 +9,4 @@ permalink: /about/
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lancaster University Ghana is the centre for excellent student experience! The voices of the students matter as our campus has quickly become the preferred destination for students across the continent. The purpose of this website is to equip present and potential students with essential information about food, accommodation, activities and student representation. What you will discover from this blog is that we have a unique mix of student leaders who- like you- want the best out of their student experience at Lancaster University Ghana.
