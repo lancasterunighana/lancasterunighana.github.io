@@ -30,9 +30,9 @@ Computer Science. Graduating in 2020
 
 **Any advice that you have for those who want to come to Lancaster and your juniors?**
 
--	Make your life meaningful by contributing to what you stand for. Fail fast and early and learn from it. Be responsible for everything you do in truth and have respect for self and others.
+Make your life meaningful by contributing to what you stand for. Fail fast and early and learn from it. Be responsible for everything you do in truth and have respect for self and others.
 
-**Do you have any external projects that you are working on outside university, what are they? **
+**Do you have any external projects that you are working on outside university, what are they?**
 
 I am a Google Digital Skills for Africa trainer. I organise Digital Marketing training workshops for job seekers and working class. I am working on an undergraduate student consulting startup that supports businesses with digital marketing and business innovation (Brainiqs Project Lab {http://brainiqsprojectslab.me} and Brainiqs Lab {http://brainiqslab.me}). I am also working on a startup that is into advocating on getting more individuals to support open source projects by organizing workshops to train them on platforms like Wikimedia and Mozilla Development. The organization name is Open Foundation West Africa (www.openfoundationwestafrica.org). I also work as a programs assistant to develop and implement programs that will support our girls with an NGO that provides financial, academic and professional support for girls who are academically brilliant but need financial support to achieve higher education. The name of the organization is Girls Education Initiative of Ghana.
 
