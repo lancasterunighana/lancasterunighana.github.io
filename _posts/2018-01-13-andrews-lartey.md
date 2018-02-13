@@ -1,39 +1,42 @@
 ---
 layout: post
 title: "Andrews Lartey"
-description: Computer Science
-permalink: /andrews-lartey/
+description: Bsc(Hons)Computer Science
 image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_376/v1516815330/andyLart_zcppfe.jpg'
-category: 'mobile'
+category: 'Computer Science'
 tags:
 - techincal
 - skills
 - professionalism
-twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+twitter_text: Follow me on twitter
+introduction: Computer Science
 ---
 
 **What is your major and graduating year?**
 
-I am studying Economics and International Relations and will be graduating in 2018.
+Computer Science. Graduating in 2020
 
  **What do you plan on doing after graduation?**
  
- I plan on going on to do a Masters or PhD in Development Studies, then working for the UN, and hopefully the public sector of my country Ghana as an Ambassador or Minister. 
+ I plan on working with partner organizations in supporting businesses grow through effective-tailored strategy and solutions and ensuring that students have the right skill set needed for the business world through student consulting groups, workshops and boot camps. I also plan on setting up a social enterprise that tackles matters of Internet of Things (IOT) especially in the area of smart city development – the combination of civil engineering and technology. 
 
  **What is your favourite memory in university?**
  
- I've had many great experiences here and I hope my next year will be even better, so my answer to this is that hopefully, my favourite memory is yet to happen.
+ Lancaster is not all about studies and I love that about the university. The university seeks to also get students to develop their talents in school. I won’t forget the first time I played for the school football team and we won our match. I loved all the team work and excellent skills that were exhibited by my team mates. Interestingly, the lecturers are so cool and are always ready to help you in any way they can.
 
  **What is one thing that you gained during your life at university which you feel was of immense value?**
  
- I have been blessed to meet many of the future leaders of not only Ghana but Africa as a whole in my classrooms and in Lancaster's hallways, and I greatly treasure the relationships I have with these intelligent and inspiring people. 
+ The importance of responsibility is one key thing that I have learnt in my life at university.
 
 **Any advice that you have for those who want to come to Lancaster and your juniors?**
 
-I would encourage anyone in or about to come to Lancaster to see everything as an opportunity, even failures. The only time I reckon failures are anything to be ashamed of is when you, the individual, allow them to impede you from pursuing and ultimately achieving your goals and dreams. I would even go as far as to say that failure can even be a great set-up for success, since they make you aware of the need for growth, help you identify the area in need growth, and induce a desire for success. So seize every opportunity (taking into account your priorities of course) because to be an overcomer, you must have had something to overcome.
+-	Make your life meaningful by contributing to what you stand for. Fail fast and early and learn from it. Be responsible for everything you do in truth and have respect for self and others.
+
+**Do you have any external projects that you are working on outside university, what are they? **
+
+I am a Google Digital Skills for Africa trainer. I organise Digital Marketing training workshops for job seekers and working class. I am working on an undergraduate student consulting startup that supports businesses with digital marketing and business innovation (Brainiqs Project Lab {http://brainiqsprojectslab.me} and Brainiqs Lab {http://brainiqslab.me}). I am also working on a startup that is into advocating on getting more individuals to support open source projects by organizing workshops to train them on platforms like Wikimedia and Mozilla Development. The organization name is Open Foundation West Africa (www.openfoundationwestafrica.org). I also work as a programs assistant to develop and implement programs that will support our girls with an NGO that provides financial, academic and professional support for girls who are academically brilliant but need financial support to achieve higher education. The name of the organization is Girls Education Initiative of Ghana.
+
 
 **Do you have any projects that you are working on/have worked on that is being supported by Lancaster University Ghana?**
 
-I was honoured to be a part of the inaugural Ghanaian internship team for the Richardson Institute Internship Programme (Lancaster University, UK), where my colleagues and I researched on peace and conflict specifically between the Northern and Southern regions of Ghana and we came up with findings in the form of a dissertation to add to the literature concerning the subject and provided possible solutions to the causes of conflict within these areas. Additionally, the Politics and Debate Society of which I am President has received generous support from the university like all the other clubs to be able to host and execute events that are close to our hearts. 
-Both of these ventures would not have been possible without the support of LUG and all its resources, especially its staff.</p>
+I worked on a project that sought to bridge academia and industry by creating a community that comprised of universities, students and businesses to discuss and collaborate on measures to allow for innovation in the business space to boost economic growth. LUG supported with funds and advice to run the project. I also established a club on campus called Brainiqs Lab with a focus to get students to have practical experience of projects in the real world by working on real world projects with businesses and the university.
