@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Andrews Lartey"
 description: Computer Science
 permalink: /andrews-lartey/
