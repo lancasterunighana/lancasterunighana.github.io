@@ -2,6 +2,7 @@
 layout: post
 title: "Andrews Lartey"
 description: Computer Science
+permalink: /andrews-lartey/
 image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_376/v1516815330/andyLart_zcppfe.jpg'
 category: 'mobile'
 tags:
