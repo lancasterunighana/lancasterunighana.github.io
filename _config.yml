@@ -2,7 +2,7 @@
 title: LUG | Student Blog
 email: a.lartey@student.lancaster.edu.gh
 description: Lancaster University Ghana is the centre for excellent student experience! The voices of the students matter as our campus has quickly become the preferred destination for students across the continent. The purpose of this website is to equip present and potential students with essential information about food, accommodation, activities and student representation. What you will discover from this blog is that we have a unique mix of student leaders who- like you- want the best out of their student experience at Lancaster University Ghana. 
-baseurl: "/lugstudentblog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://lugstudentblog.me" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
