@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Justina Adarkwa "
-description: Computer Science
+description: Economics and International Relations
 image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_760/v1516815506/justina1_atkeoh.jpg'
 category: 'mobile'
 tags:
-- techincal
-- skills
+- debate
+- critical thinking
 - professionalism
 twitter_text: Follow me on twitter.
 introduction: Economics and International Relations.
