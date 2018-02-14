@@ -23,13 +23,19 @@ With an attitude of professionalism and integrity socially impact the world with
 **Member Benefits**
 
 -Development of a strong CV and Resume (portfolio) by working on real world projects with businesses;
+
 -Professional industry skill training;
+
 -Discounted services and products at partner businesses;
+
 -Direct engagement with professionals in the field
 
 **Programmes**
 
 -Consultancy
+
 -Happy Hour
+
 -Bootcamps, Hackathon and Workshops
+
 -Social Enterprise Lancaster University Ghana Movement
