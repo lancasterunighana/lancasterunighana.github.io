@@ -2,7 +2,7 @@
 layout: post
 title: "Business Society"
 description: Society
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_760/v1516815128/KOB_3_em0sar.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1518515261/Business_club_jrty8g.jpg'
 category: 'Society'
 tags:
 - leadership
