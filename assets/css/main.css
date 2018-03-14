@@ -68,7 +68,7 @@ html,body{height:100%}
 @media only screen and (min-width:37.5rem){.bar-header{padding:.938rem 0}}.bar-header .logo{margin:0;height:2rem;line-height:2rem}.bar-header .logo a{color:#fff;text-decoration:none;font-size:2rem}.bar-header .icon-menu{float:left;cursor:pointer;margin:.313rem 1.25rem .313rem 0;width:1.25rem;height:1.25rem;fill:#fff;}@media only screen and (min-width:37.5rem){.bar-header .icon-menu{margin:.313rem 1.25rem .313rem 1.563rem}}.bar-header .dosearch{float:right;display:inline-block;width:1.875rem;height:1.875rem;cursor:pointer;margin:0 0 0 0;}@media only screen and (min-width:37.5rem){.bar-header .dosearch{margin:0 1.25rem 0 0}}.bar-header .icon-search{width:1.25rem;height:1.25rem;fill:#fff;margin:.313rem}
 
 
-body.main-page{background-color:#4DD0E1;}body.main-page .bar-header{background-color:rgba(0,0,0,0.7)}
+body.main-page{background-color:#7FAABE;}body.main-page .bar-header{background-color:rgba(0,0,0,0.7)}
 
 
 
