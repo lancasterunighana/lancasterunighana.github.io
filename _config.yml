@@ -34,16 +34,12 @@ plugins:
 links:
   - title: Home
     url: /
-  - title: Featured Students
-    url: /featuredstudents/
   - title: Students Council
     url: /studentcouncil/
+  - title: Featured Students
+    url: /featuredstudents/
   - title: Clubs & Societies
     url: /clubsocieties/
-  - title: Academic Support
-    url: /academicsupport/
-  - title: About
-    url: /about/
   - title: Contact
     url: /contact/
 
