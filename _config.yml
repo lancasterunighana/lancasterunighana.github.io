@@ -13,12 +13,10 @@ disqus_username: brainiqslab
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+facebook_username: https://www.facebook.com/lancasteruniversityghana/
+twitter_username: https://twitter.com/LancasterGhana
+instagram_username: https://www.instagram.com/lancasterghana/
+linkedin_username: https://www.linkedin.com/company/lancaster-university-ghana/
 
 # Build settings
 markdown: kramdown
@@ -32,6 +30,7 @@ plugins:
 # Links to include in menu navigation
 # For external links add external: true
 links:
+external:true
   - title: Home
     url: /
   - title: Students Council
@@ -40,6 +39,8 @@ links:
     url: /featuredstudents/
   - title: Clubs & Societies
     url: /clubsocieties/
+  - title: Upcoming Events
+    url: /upcomingevents/
   - title: Contact
     url: /contact/
 
