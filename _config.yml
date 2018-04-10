@@ -30,7 +30,6 @@ plugins:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-external:true
   - title: Home
     url: /
   - title: Students Council
