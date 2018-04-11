@@ -1,15 +1,11 @@
 ---
 layout: post
-title: "Business Society"
+title: "Business Club"
 description: Society
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1518515261/Business_club_jrty8g.jpg'
+image: ' http://res.cloudinary.com/brainiqslab/image/upload/v1523429045/businessClub_rk3vmb.png'
 category: 'Society'
-tags:
-- leadership
-- skills
-- professionalism
 twitter_text: Follow us on twitter
-introduction: Society
+introduction: Club
 ---
 
 **About Us** 
