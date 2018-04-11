@@ -2,7 +2,7 @@
 layout: post
 title: "Elsie Owusu-Kyere"
 description: Law LLB
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_760/v1516815396/Elsie_3_xwsv8w.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1522232578/elsie_bjdiwn.png'
 category: 'Law'
 tags:
 - leadership
