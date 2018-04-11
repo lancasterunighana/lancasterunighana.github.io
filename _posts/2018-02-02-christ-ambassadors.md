@@ -2,7 +2,7 @@
 layout: post
 title: "Christ Ambassadors"
 description: Club
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_600/v1518515263/Christ_Ambassadors_c9vrwt.jpg'
+image: ' http://res.cloudinary.com/brainiqslab/image/upload/v1523429044/christ_t2m7tm.png'
 category: 'Club'
 tags:
 - leadership
