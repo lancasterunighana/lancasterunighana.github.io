@@ -2,7 +2,7 @@
 layout: post
 title: "Justina Adarkwa "
 description: Economics and International Relations
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_760/v1516815506/justina1_atkeoh.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1523426513/justina3a_jljn3d.png'
 category: 'mobile'
 tags:
 - debate
