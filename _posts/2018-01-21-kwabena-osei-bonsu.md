@@ -2,7 +2,7 @@
 layout: post
 title: "Kwabena Osei-Bonsu"
 description: Law LLB
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_760/v1516815128/KOB_3_em0sar.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1522232579/kob_izvkxr.png'
 category: 'Law'
 tags:
 - leadership
