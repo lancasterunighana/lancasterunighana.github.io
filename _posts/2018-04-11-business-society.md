@@ -30,15 +30,23 @@ Promoting student owned businesses, initiatives and endeavours and helping them 
 ***Benefits:***
 
  -A society that is opened to you irrespective of your course;
+ 
  -Building up connections;
+ 
  -A guide to apply for internships;
+ 
  -Planning of events that teach members more about the business world;
  
  
 ***Past Programmes***
 -Barclays Bank talk on investments
+
 -Fidelity bank talk on investments
+
 -Business Society Week
+
 -Entrepreneurship talk
+
 -Networking Event
+
 -BSG Night
