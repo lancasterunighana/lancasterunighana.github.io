@@ -2,7 +2,7 @@
 layout: post
 title: "Ubaasha Ramesh"
 description: Bsc(Hons)Computer Science
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_760/v1516815370/UB3_pjeyar.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1522232580/ub_t0fyuh.png'
 category: 'Computer Science'
 tags:
 - techincal
