@@ -2,7 +2,7 @@
 layout: post
 title: "Andrews Lartey"
 description: Bsc(Hons)Computer Science
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_376/v1516815330/andyLart_zcppfe.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1522065831/andrewsLart_edqyzg.png'
 category: 'Computer Science'
 tags:
 - techincal
