@@ -2,7 +2,7 @@
 layout: post
 title: "Peter Peregbakumo"
 description: Bsc(Hons) Computer Science
-image: 'http://res.cloudinary.com/brainiqslab/image/upload/c_scale,w_600/v1518477014/IMG_2810_foagql.jpg'
+image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1522235142/peter2_ezcwjh.png'
 category: 'Computer Science'
 tags:
 - leadership
