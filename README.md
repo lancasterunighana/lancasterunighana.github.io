@@ -150,7 +150,7 @@ Did you like my work? Buy me a beer :)
 
 ## Author
 
-[Thiago Rossener](https://www.rossener.com/) based on [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template).
+[Andrews Lartey](https://www.linkedin.com/in/andrews-nii-awuley-lartey-7aa51482/) based on [Thiago Rossener](https://www.rossener.com/) based on [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template).
 
 ## License
 
