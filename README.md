@@ -7,7 +7,7 @@ See the [demo here](https://www.rossener.com/jekflix-template).
 
 A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance ;)
 
-![Screenshot](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357238/jekflix-screenshot_qikqkl.jpg)
+![Screenshot](http://res.cloudinary.com/brainiqslab/image/upload/v1524335664/Screen_Shot_2018-04-21_at_6.33.43_PM_tbdzyl.png)
 
 ## Features
 
