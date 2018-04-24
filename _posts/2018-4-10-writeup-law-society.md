@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Write-Up on LUG Law Society"
+title: "Here's A Recap of Law Week 2018"
 description: Society
 image: 'http://res.cloudinary.com/brainiqslab/image/upload/v1523375156/lawSociety_npzepf.png'
 category: 'Law society'
